@@ -1,3 +1,12 @@
+## v0.2.4
+
+### Enhancements
+* Added highlighting of additional commands ([#11][3])
+* Added regex pattern repository for TextMate grammar ([#12][4])
+
+### Fixes
+* Fixed highlighting of network interface names e.g. 0/1, 10/1, LA/1, LO/1, etc ([#11][3])
+
 ## v0.2.3
 
 ### Enhancements
@@ -25,3 +34,5 @@
 
 [1]: https://github.com/timdenholm/vscode-netscaler/issues/2
 [2]: https://github.com/timdenholm/vscode-netscaler/issues/6
+[3]: https://github.com/timdenholm/vscode-netscaler/issues/11
+[4]: https://github.com/timdenholm/vscode-netscaler/issues/12
